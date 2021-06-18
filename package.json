@@ -1,0 +1,26 @@
+{
+  "name": "nekolife",
+  "description": "A wrapper around nekos.life API.",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "files": [
+    "build/**/**"
+  ],
+  "author": "Avax",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "url": "https://github.com/AvaxWzy/nekoslife"
+  },
+  "dependencies": {
+    "@types/node": "^15.12.2",
+    "superagent": "^6.1.0"
+  },
+  "devDependencies": {
+    "@types/superagent": "^4.1.11",
+    "typescript": "^4.3.4"
+  }
+}
