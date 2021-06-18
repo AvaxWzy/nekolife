@@ -72,7 +72,7 @@ neko.text("catText").then(x => {
 
 There are no docs for this package but we sure going to bring something for reference.
 
-## Support Server
+## Support
 
 You can join my discord server:
 ```https
