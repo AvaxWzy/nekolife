@@ -76,5 +76,5 @@ There are no docs for this package but we sure going to bring something for refe
 
 You can join my discord server:
 ```https
-https://discord.gg/WZqgSgGCAx
+https://discord.gg/WRWzs9UPnf
 ```
